@@ -30,3 +30,6 @@ the we got the result in, we choosed option
 
 By using this code we easily calculate the our age in different time parameter like months, days, hours, 
 minutes and seconds after put the age in years
+
+# Dificulties during project
+when i start the project that time i am easily def the function and also perform the all arithmeticals function but when i want to perform program for single unit output then that time i am stuck for long time but after passing time i am successfull to perform for single unit. but when i start to write a code that many things related project taking movement in my mind in there one is "duration of person lived in____" and 2 is "time parameter statement" for understanding the user what they want to type for getting result.
